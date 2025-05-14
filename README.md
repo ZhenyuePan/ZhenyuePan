@@ -1,12 +1,12 @@
 <div align="center">
   
 # 𝙆𝘼𝙁𝙆𝘼'𝙨 𝙂𝙞𝙩𝙃𝙪𝙗 𝙋𝙧𝙤𝙛𝙞𝙡𝙚
-𝗛𝗜𝗧 𝗖𝗦𝗘 𝗠𝗦𝗰 | 𝗦��𝘀𝘁𝗲𝗺 𝗣𝗿𝗼𝗚𝗿𝗮𝗺𝗺𝗲𝗿 | 𝗚𝗼/𝗖++ 𝗗𝗲𝘃��𝗹𝗼𝗽𝗲𝗿
+𝗛𝗜𝗧 𝗖𝗦𝗘 𝗠𝗦𝗰 | 𝗦𝘆𝘀𝘁𝗲𝗺 𝗣𝗿𝗼𝗚𝗿𝗮𝗺𝗺𝗲𝗿 | 𝗚𝗼/𝗖++ 𝗗𝗲𝘃𝗹𝗼𝗽𝗲𝗿
 
 [![Blog](https://img.shields.io/badge/tech_blog-p3rblog.vercel.app-FF4088?style=flat-square)](https://p3rblog.vercel.app)
 [![Email](https://img.shields.io/badge/QQ-664945264@qq.com-0078D4?style=flat-square)](mailto:664945264@qq.com)
   
-![](https://komarev.com/ghpvc/?username=your_github_name&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=ZhenyuePan&color=blueviolet)
 
 </div>
 
@@ -38,9 +38,9 @@
 
 ---
 
-### 📊 𝗖𝗼𝗱��𝗻𝗴 𝗦𝘁𝗮𝘁𝘀
+### 📊 𝗖𝗼𝗱𝗶𝗻𝗴 𝗦𝘁𝗮𝘁𝘀
 <!-- 实际使用时需替换username -->
-[![kafka's GitHub stats](https://github-readme-stats.vercel.app/api?username=your_github_name&show_icons=true&theme=radical)](https://github.com/your_github_name)
+[![kafka's GitHub stats](https://github-readme-stats.vercel.app/api?username=your_github_name&show_icons=true&theme=radical)](https://github.com/ZhenyuePan)
 
 ---
 
