@@ -24,13 +24,13 @@
 
 ### 🚀 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
-#### [High-Performance KV Storage Engine](project_url_placeholder)
+#### [High-Performance KV Storage Engine](https://p3rblog.vercel.app/blog)
 ⏱️ 2024.08-2024.11 | 🦾 Go  
 ✅ 实现基于Bitcask模型的存储引擎  
 🔥 ​**11w QPS** | 🧠 B-Tree索引 | 🔒 可串行化事务  
 📌 内存索引优化 | 📂 预写式日志 | 🧩 原子批量写
 
-#### [TinyWebServer](project_url_placeholder)
+#### [TinyWebServer](https://p3rblog.vercel.app/blog)
 ⏱️ 2024.05-2024.08 | 🐧 C++  
 �� Reactor模型 | 🧵 线程池实现  
 📡 Epoll高并发 | ⏱️ 定时器优化  
