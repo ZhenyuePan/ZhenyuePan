@@ -40,7 +40,7 @@
 
 ### 📊 𝗖𝗼𝗱𝗶𝗻𝗴 𝗦𝘁𝗮𝘁𝘀
 <!-- 实际使用时需替换username -->
-[![kafka's GitHub stats](https://github-readme-stats.vercel.app/api?username=your_github_name&show_icons=true&theme=radical)](https://github.com/ZhenyuePan)
+[![kafka's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhenyuePan&show_icons=true&theme=radical)](https://github.com/ZhenyuePan)
 
 ---
 
