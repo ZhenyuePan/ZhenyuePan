@@ -1,50 +1,56 @@
 <div align="center">
-  
+<div align="center">
+
+<div align="center">
+
 # 𝙆𝘼𝙁𝙆𝘼'𝙨 𝙂𝙞𝙩𝙃𝙪𝙗 𝙋𝙧𝙤𝙛𝙞𝙡𝙚
+
 𝗛𝗜𝗧 𝗖𝗦𝗘 𝗠𝗦𝗰 | 𝗦𝘆𝘀𝘁𝗲𝗺 𝗣𝗿𝗼𝗚𝗿𝗮𝗺𝗺𝗲𝗿 | 𝗚𝗼/𝗖++ 𝗗𝗲𝘃𝗹𝗼𝗽𝗲𝗿
 
-[![Blog](https://img.shields.io/badge/tech_blog-p3rblog.vercel.app-FF4088?style=flat-square)](https://p3rblog.vercel.app)
-[![Email](https://img.shields.io/badge/QQ-664945264@qq.com-0078D4?style=flat-square)](mailto:664945264@qq.com)
-  
-![](https://komarev.com/ghpvc/?username=ZhenyuePan&color=blueviolet)
-
-</div>
-
----
-
 ### 🛠️ 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
-![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
----
+[![img](https://camo.githubusercontent.com/aa4a8e0f0e37bade51e976a2456b0b5d1ca5f6b1666230bbb4daf79843fe18ff/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f2d3030414444383f7374796c653d666f722d7468652d6261646765266c6f676f3d676f266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/aa4a8e0f0e37bade51e976a2456b0b5d1ca5f6b1666230bbb4daf79843fe18ff/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f2d3030414444383f7374796c653d666f722d7468652d6261646765266c6f676f3d676f266c6f676f436f6c6f723d7768697465) [![img](https://camo.githubusercontent.com/51368bd0e1fb2f8678ab567ff32db8d583b1afbd18a8351e795ba7afd0a92a9d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432b2b2d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/51368bd0e1fb2f8678ab567ff32db8d583b1afbd18a8351e795ba7afd0a92a9d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432b2b2d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465) [![img](https://camo.githubusercontent.com/b9326effec4bc941d648d79b2e24ed7c708122671d2540c3277596dc52d640f2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b)](https://camo.githubusercontent.com/b9326effec4bc941d648d79b2e24ed7c708122671d2540c3277596dc52d640f2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b) [![img](https://camo.githubusercontent.com/0e7b526d88d84770a3a40f05841e2f550d835c9de6ac4f65a5227cd9e64beefb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3434373941313f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/0e7b526d88d84770a3a40f05841e2f550d835c9de6ac4f65a5227cd9e64beefb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3434373941313f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465) [![img](https://camo.githubusercontent.com/c04bf776f4585a9abf246a25bb8a98375f56bcce8ca144ec266a9c13010f3e33/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656469732d4443333832443f7374796c653d666f722d7468652d6261646765266c6f676f3d7265646973266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/c04bf776f4585a9abf246a25bb8a98375f56bcce8ca144ec266a9c13010f3e33/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656469732d4443333832443f7374796c653d666f722d7468652d6261646765266c6f676f3d7265646973266c6f676f436f6c6f723d7768697465) [![img](https://camo.githubusercontent.com/a07c81a42a1faf3e6c3eef1c6885877f25d77580c8130d8eb646da7cff5280e8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5368656c6c2d3445414132353f7374796c653d666f722d7468652d6261646765266c6f676f3d676e752d62617368266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/a07c81a42a1faf3e6c3eef1c6885877f25d77580c8130d8eb646da7cff5280e8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5368656c6c2d3445414132353f7374796c653d666f722d7468652d6261646765266c6f676f3d676e752d62617368266c6f676f436f6c6f723d7768697465)
+
+### 🌟 𝗢𝗽𝗲𝗻 𝗦𝗼𝘂𝗿𝗰𝗲 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻𝘀
+
+#### **[apache/inlong]** - [[INLONG-11999\][Audit] Add alert evaluation and periodic audit check task](https://www.google.com/search?q=https://github.com/apache/inlong/commit/9411dc101a1e0413045237b67946221c50d4f107)
+
+我为 Apache Inlong 的核心组件 `inlong-audit` 贡献了关键功能，显著增强了其数据质量监控和链路稳定性保障能力。
+
+- **项目背景**: Apache Inlong 是一站式海量数据集成框架，`inlong-audit` 模块负责对整个数据链路进行审计和对账，确保数据的端到端一致性。
+- **我的贡献**:
+  - **实现周期性检查任务**: 开发了一个后台任务，能够周期性地扫描审计数据，主动发现那些长时间未能“对平”的异常数据流。
+  - **引入智能告警评估**: 设计并实现了一套告警评估逻辑。当检测到数据对账延迟超过预设阈值时，系统会自动将其评估为异常事件，为触发告警和运维介入提供了依据。
+- **贡献价值**: 此项贡献将 `audit-tool` 从一个基础的扫描工具升级为一个**主动、智能的数据质量哨兵**。它实现了系统对数据链路异常的**自我诊断和主动预警**，极大地提升了 Inlong 在复杂环境下数据传输的可靠性与运维效率。
 
 ### 🚀 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
 #### [High-Performance KV Storage Engine](https://p3rblog.vercel.app/blog)
-⏱️ 2024.08-2024.11 | 🦾 Go  
-✅ 实现基于Bitcask模型的存储引擎  
-🔥 ​**11w QPS** | 🧠 B-Tree索引 | 🔒 可串行化事务  
+
+⏱️ 2024.08-2024.11 | 🦾 Go
+
+✅ 实现基于Bitcask模型的存储引擎
+
+🔥 **11w QPS** | 🧠 B-Tree索引 | 🔒 可串行化事务
+
 📌 内存索引优化 | 📂 预写式日志 | 🧩 原子批量写
 
 #### [TinyWebServer](https://p3rblog.vercel.app/blog)
-⏱️ 2024.05-2024.08 | 🐧 C++  
-�� Reactor模型 | 🧵 线程池实现  
-📡 Epoll高并发 | ⏱️ 定时器优化  
-🔌 HTTP协议栈 | 📈 ​**10k+ QPS**
 
----
+⏱️ 2024.05-2024.08 | 🐧 C++
+
+✅ Reactor模型 | 🧵 线程池实现
+
+📡 Epoll高并发 | ⏱️ 定时器优化
+
+🔌 HTTP协议栈 | 📈 **10k+ QPS**
 
 ### 📊 𝗖𝗼𝗱𝗶𝗻𝗴 𝗦𝘁𝗮𝘁𝘀
-<!-- 实际使用时需替换username -->
-[![kafka's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhenyuePan&show_icons=true&theme=radical)](https://github.com/ZhenyuePan)
 
----
+![kafka's GitHub stats](https://camo.githubusercontent.com/01e5cbe11e79a6e02b9783ef382ff579873d5ba974d7a877013997e3a5c019e6/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d5a68656e79756550616e2673686f775f69636f6e733d74727565267468656d653d7261646963616c)
 
 ### 📫 𝗖𝗼𝗻𝗻𝗲𝗰𝘁
-📧 ​**664945264@qq.com**  
-🌐 [技术博客](https://p3rblog.vercel.app)  
+
+📧 **664945264@qq.com** 🌐 [技术博客](https://p3rblog.vercel.app)
+
 📍 江苏镇江 | 🏫 哈尔滨工业大学
