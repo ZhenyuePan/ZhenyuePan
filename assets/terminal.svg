@@ -1,0 +1,39 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Zhenyue Pan systems profile banner</title>
+  <desc id="desc">A terminal-style banner for a systems and storage engineer profile.</desc>
+  <defs>
+    <linearGradient id="frame" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.55" stop-color="#070B12"/>
+      <stop offset="1" stop-color="#0B1120"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#1E293B" stroke-width="1" opacity="0.45"/>
+    </pattern>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#frame)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="23" stroke="#334155" stroke-width="2"/>
+  <rect x="28" y="24" width="1144" height="312" rx="16" fill="#020617" opacity="0.72"/>
+  <circle cx="54" cy="48" r="7" fill="#FF5F57"/>
+  <circle cx="80" cy="48" r="7" fill="#FFBD2E"/>
+  <circle cx="106" cy="48" r="7" fill="#28C840"/>
+  <path d="M28 72H1172" stroke="#1E293B" stroke-width="2"/>
+  <text x="56" y="118" fill="#22D3EE" filter="url(#glow)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26">$ ./profile --probe storage</text>
+  <text x="56" y="168" fill="#F8FAFC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="50" font-weight="700">Zhenyue Pan</text>
+  <text x="56" y="214" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="25">HIT CSE M.S. Year 2 · Infra Intern @ ByteDance</text>
+  <text x="56" y="264" fill="#A7F3D0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="25">current: distributed KV cache storage</text>
+  <text x="56" y="304" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22">trail: HDFS storage infra -> Mooncake -> KV engines</text>
+  <rect x="780" y="104" width="332" height="168" rx="12" fill="#0F172A" stroke="#1E293B"/>
+  <text x="808" y="144" fill="#38BDF8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">latency_budget:</text>
+  <text x="808" y="180" fill="#F8FAFC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="28">tight paths</text>
+  <text x="808" y="220" fill="#38BDF8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">systems_bias:</text>
+  <text x="808" y="252" fill="#F8FAFC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24">measure, simplify</text>
+</svg>
