@@ -4,15 +4,15 @@
 
 # Zhenyue Pan
 
-`HIT CSE M.S. Year 2` · `Infra Intern @ ByteDance` · `systems / storage`
+`HIT CSE M.S. Year 2` · `AI Infra Intern @ ByteDance` · `Machine Learning Systems / Storage`
 
 ```txt
 zhenyue@hit:~$ ./profile --status
 
 school    Harbin Institute of Technology, M.S. Year 2
 role      infra intern @ ByteDance
-current   distributed KV cache storage
-trail     HDFS storage infra -> open-source data systems -> KV engines
+current   distributed KVcache storage for LRM
+trail     HDFS storage infra -> KV engines for LRM
 bias      fewer layers, tighter paths, measurable latency
 ```
 
